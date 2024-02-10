@@ -14,4 +14,4 @@ npm run dev
 Acesse [http://localhost:5173](http://localhost:5173) para visualizar a aplicação.
 ```
 
-![image](https://github.com/Lazarokaua/nlw-expert-react/assets/132157522/1cbbb114-32a8-4cf5-9f82-bc9449c3b30b)
+![image](https://github.com/Lazarokaua/nlw-expert-react/assets/nlw.png)
